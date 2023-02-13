@@ -1,9 +1,0 @@
-﻿  Win32Platf.cpp
-c:\users\user\source\repos\project2\shooter_game\shooter-game\project2\render.h(68): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
-c:\users\user\source\repos\project2\shooter_game\shooter-game\project2\render.h(69): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
-c:\users\user\source\repos\project2\shooter_game\shooter-game\project2\render.h(70): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
-c:\users\user\source\repos\project2\shooter_game\shooter-game\project2\render.h(71): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
-c:\users\user\source\repos\project2\shooter_game\shooter-game\project2\game.cpp(38): warning C4305: '-=': troncamento da 'double' a 'float'
-c:\users\user\source\repos\project2\shooter_game\shooter-game\project2\game.cpp(42): warning C4305: '+=': troncamento da 'double' a 'float'
-c:\users\user\source\repos\project2\shooter_game\shooter-game\project2\win32platf.cpp(59): warning C4007: 'WinMain': deve essere '__stdcall'
-  Project2.vcxproj -> C:\Users\User\source\repos\Project2\Shooter_Game\shooter-game\Debug\game.exe
